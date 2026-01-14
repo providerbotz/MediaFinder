@@ -14,7 +14,7 @@ START_KB = InlineKeyboardMarkup(
 
             InlineKeyboardButton(
 
-                "👨‍💻 Source Code", url="https://github.com/EL-Coders/mediafinder"
+                "👨‍💻 Source Code", url="https://github.com/providerbotz/MediaFinder"
 
             ),
 
